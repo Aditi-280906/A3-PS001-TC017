@@ -1,0 +1,38 @@
+{
+  "SFIM": {
+    "rows": 347,
+    "columns": 35,
+    "runs": 157,
+    "duplicates": 0,
+    "missing": 0,
+    "benign": 128,
+    "malicious": 219
+  },
+  "MPVG": {
+    "rows": 347,
+    "columns": 33,
+    "runs": 157,
+    "duplicates": 0,
+    "missing": 0,
+    "benign": 128,
+    "malicious": 219
+  },
+  "CAIT": {
+    "rows": 347,
+    "columns": 33,
+    "runs": 157,
+    "duplicates": 0,
+    "missing": 0,
+    "benign": 128,
+    "malicious": 219
+  },
+  "EAP": {
+    "rows": 347,
+    "columns": 32,
+    "runs": 157,
+    "duplicates": 0,
+    "missing": 0,
+    "benign": 128,
+    "malicious": 219
+  }
+}
