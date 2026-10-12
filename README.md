@@ -143,6 +143,3 @@ The dashboard can be developed on macOS, Windows, or Linux with Node.js and npm.
 
 Use the commands above from the repository root unless a command explicitly changes directories.
 
-## AIORI submission
-
-This repository is intended for the AIORI Phase 3 hackathon submission. Preserve the official template files and add the required presentation, team introduction, demo, and other deliverables according to the official submission guidelines.
