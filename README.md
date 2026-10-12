@@ -2,7 +2,7 @@
 
 **Android-focused ransomware monitoring and early-warning system**
 
-RANSCOPE is a research and hackathon project for monitoring Android application behaviour and analysing telemetry for potential ransomware activity. The project combines Android-side monitoring, a Python backend, pretrained detection models, and a live web dashboard.
+RANSCOPE is a research project for monitoring Android application behaviour and analysing telemetry for potential ransomware activity. The project combines Android-side monitoring, a Python backend, pretrained detection models, and a live web dashboard.
 
 ## Project components
 
