@@ -143,14 +143,6 @@ The dashboard can be developed on macOS, Windows, or Linux with Node.js and npm.
 
 Use the commands above from the repository root unless a command explicitly changes directories.
 
-## Current limitations
-
-- Android events can be ingested and aggregated independently of model inference.
-- Model inference requires a complete, valid feature window; missing or invalid features are rejected.
-- Live backend state is in memory and is not persisted across restarts.
-- Detection quality and false-positive rates must be evaluated using representative benign and malicious behaviours before making production-security claims.
-- This repository is a research/hackathon prototype, not a guarantee of ransomware prevention.
-
 ## AIORI submission
 
 This repository is intended for the AIORI Phase 3 hackathon submission. Preserve the official template files and add the required presentation, team introduction, demo, and other deliverables according to the official submission guidelines.
