@@ -1,6 +1,6 @@
-# RANSCOPE
+# A3-PS001-TC017
 
-**Android-focused ransomware monitoring and early-warning system**
+**PS001: Android Ransomware-like Activity Early-Warning in a Controlled Lab**
 
 RANSCOPE is a research project for monitoring Android application behaviour and analysing telemetry for potential ransomware activity. The project combines Android-side monitoring, a Python backend, pretrained detection models, and a live web dashboard.
 
